@@ -1,0 +1,9 @@
+{
+  "financialBookingLogInstanceReference" : "FBLIR781418",
+  "financialBookingLogInitiateActionReference" : "FBLIAR704995",
+  "financialBookingLogInitiateActionRecord" : {},
+  "financialBookingLogInstanceStatus" : "financialBookingLogInstanceStatus",
+  "cRFinancialBookingLogInstanceRecord" : {
+    "status" : "status"
+  }
+}

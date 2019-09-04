@@ -1,0 +1,11 @@
+{
+  "ledgerPostingUpdateActionTaskReference" : "LPUATR789876",
+  "ledgerPostingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "ledgerPostingInstanceRecord" : {
+    "postingValueDate" : "09-22-2018",
+    "postingDirection" : "postingDirection",
+    "postingAmount" : "USD 250",
+    "postingResult" : "postingResult"
+  }
+}

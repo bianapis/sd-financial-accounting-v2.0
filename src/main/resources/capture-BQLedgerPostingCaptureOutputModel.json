@@ -1,0 +1,9 @@
+{
+  "ledgerPostingCaptureActionTaskRecord" : {},
+  "ledgerPostingCaptureRecordReference" : "LPCRR790293",
+  "ledgerPostingInstanceRecord" : {
+    "postingResult" : "postingResult"
+  },
+  "ledgerPostingCaptureActionTaskReference" : "LPCATR742235",
+  "captureResponseRecord" : {}
+}

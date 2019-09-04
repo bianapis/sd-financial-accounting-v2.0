@@ -1,0 +1,23 @@
+{
+  "financialBookingLogInstanceReportRecord" : {
+    "financialBookingLogInstanceReportType" : "financialBookingLogInstanceReportType",
+    "financialBookingLogInstanceReport" : {},
+    "financialBookingLogInstanceReportData" : "financialBookingLogInstanceReportData"
+  },
+  "financialBookingLogRetrieveActionTaskReference" : "FBLRATR738828",
+  "financialBookingLogRetrieveActionResponse" : "financialBookingLogRetrieveActionResponse",
+  "financialBookingLogRetrieveActionTaskRecord" : {},
+  "financialBookingLogInstanceAnalysis" : {
+    "financialBookingLogInstanceAnalysisData" : "financialBookingLogInstanceAnalysisData",
+    "financialBookingLogInstanceAnalysisReportType" : "financialBookingLogInstanceAnalysisReportType",
+    "financialBookingLogInstanceAnalysisReport" : {}
+  },
+  "cRFinancialBookingLogInstanceRecord" : {
+    "productServiceReference" : "769595",
+    "financialAccountType" : "financialAccountType",
+    "chartofAccountBookingRules" : "chartofAccountBookingRules",
+    "businessUnitReference" : "772863",
+    "baseCurrency" : "USD",
+    "status" : "status"
+  }
+}

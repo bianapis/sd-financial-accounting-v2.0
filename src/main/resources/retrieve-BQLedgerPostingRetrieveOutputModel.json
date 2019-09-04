@@ -1,0 +1,23 @@
+{
+  "ledgerPostingInstanceAnalysis" : {
+    "ledgerPostingInstanceAnalysisReport" : {},
+    "ledgerPostingInstanceAnalysisRecord" : {},
+    "ledgerPostingInstanceAnalysisReportType" : "ledgerPostingInstanceAnalysisReportType",
+    "ledgerPostingInstanceAnalysisParameters" : "ledgerPostingInstanceAnalysisParameters"
+  },
+  "ledgerPostingRetrieveActionTaskRecord" : {},
+  "ledgerPostingInstanceRecord" : {
+    "postingValueDate" : "09-22-2018",
+    "postingDirection" : "postingDirection",
+    "postingAmount" : "USD 250",
+    "postingResult" : "postingResult"
+  },
+  "ledgerPostingRetrieveActionResponse" : "ledgerPostingRetrieveActionResponse",
+  "ledgerPostingRetrieveActionTaskReference" : "LPRATR731552",
+  "ledgerPostingInstanceReport" : {
+    "ledgerPostingInstanceReportRecord" : {},
+    "ledgerPostingInstanceReportType" : "ledgerPostingInstanceReportType",
+    "ledgerPostingInstanceReportParameters" : "ledgerPostingInstanceReportParameters",
+    "ledgerPostingInstanceReport" : {}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "financialBookingLogUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "financialBookingLogUpdateActionTaskReference" : "FBLUATR782489",
+  "cRFinancialBookingLogInstanceRecord" : {
+    "productServiceReference" : "708949",
+    "financialAccountType" : "financialAccountType",
+    "chartofAccountBookingRules" : "chartofAccountBookingRules",
+    "businessUnitReference" : "767088",
+    "baseCurrency" : "USD",
+    "status" : "status"
+  }
+}

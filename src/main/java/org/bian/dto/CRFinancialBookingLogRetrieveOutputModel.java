@@ -35,7 +35,7 @@ public class CRFinancialBookingLogRetrieveOutputModel   {
   public CRFinancialBookingLogRetrieveOutputModelCRFinancialBookingLogInstanceRecord getCRFinancialBookingLogInstanceRecord() {
     return cRFinancialBookingLogInstanceRecord;
   }
-
+  @JsonProperty("cRFinancialBookingLogInstanceRecord")
   public void setCRFinancialBookingLogInstanceRecord(CRFinancialBookingLogRetrieveOutputModelCRFinancialBookingLogInstanceRecord cRFinancialBookingLogInstanceRecord) {
     this.cRFinancialBookingLogInstanceRecord = cRFinancialBookingLogInstanceRecord;
   }
